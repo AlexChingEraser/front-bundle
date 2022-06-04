@@ -1,3 +1,5 @@
 # front-bundle
-front project bundle procedure seem like a cumbersome task, its learning curve is cliffy, especially for fresh man.So this project is 
-markdown front bundle tech points like webpack,vite,etc.
+总结常见前端打包过程：
+- `vue`
+- `react`
+- `...`
